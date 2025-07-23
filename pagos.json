@@ -1,8 +1,8 @@
 {
   "1234": {
-    "buyOrder": "ORDEN1234",      // ID de la compra
-    "sessionId": "SESSION1234",   // ID de la sesión
-    "amount": 10000,              // Monto de la transacción
+    "buyOrder": "ORDEN1234",
+    "sessionId": "SESSION1234",
+    "amount": 10000,
     "description": "Compra de prueba"
   },
   "5678": {
