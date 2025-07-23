@@ -1,12 +1,12 @@
 {
   "name": "Servicio_Transbank",
   "version": "1.0.0",
-  "main": "index.js",   // Este es el archivo principal
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js"  // Comando para iniciar el servidor
+    "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",  // Dependencia de Express
-    "transbank-sdk": "^0.0.2"  // SDK de Transbank
+    "express": "^4.17.1",
+    "transbank-sdk": "^0.0.2"
   }
 }
